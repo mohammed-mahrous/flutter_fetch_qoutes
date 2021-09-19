@@ -2,6 +2,8 @@
 
 A new Flutter project.
 
+using flutter with api requests to fetch qoutes from the web
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
